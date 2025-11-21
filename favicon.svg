@@ -1,19 +1,14 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9.06145 23.1079C5.26816 22.3769 -3.39077 20.6274 1.4173 5.06384C9.6344 6.09939 16.9728 14.0644 9.06145 23.1079Z" fill="url(#paint0_linear_17557_2021)"/>
-<path d="M8.91928 23.0939C5.27642 21.2223 0.78371 4.20891 17.0071 0C20.7569 7.19341 19.6212 16.5452 8.91928 23.0939Z" fill="url(#paint1_linear_17557_2021)"/>
-<path d="M8.91388 23.0788C8.73534 19.8817 10.1585 9.08525 23.5699 13.1107C23.1812 20.1229 18.984 26.4182 8.91388 23.0788Z" fill="url(#paint2_linear_17557_2021)"/>
-<defs>
-<linearGradient id="paint0_linear_17557_2021" x1="3.77557" y1="5.91571" x2="5.23185" y2="21.5589" gradientUnits="userSpaceOnUse">
-<stop stop-color="#18E299"/>
-<stop offset="1" stop-color="#15803D"/>
-</linearGradient>
-<linearGradient id="paint1_linear_17557_2021" x1="12.1711" y1="-0.718425" x2="10.1897" y2="22.9832" gradientUnits="userSpaceOnUse">
-<stop stop-color="#16A34A"/>
-<stop offset="1" stop-color="#4ADE80"/>
-</linearGradient>
-<linearGradient id="paint2_linear_17557_2021" x1="23.1327" y1="15.353" x2="9.33841" y2="18.5196" gradientUnits="userSpaceOnUse">
-<stop stop-color="#4ADE80"/>
-<stop offset="1" stop-color="#0D9373"/>
-</linearGradient>
-</defs>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2364.72 2365.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff6a00;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-1"
+      d="m1182.52,0C529.51,0,0,529.51,0,1182.51c0,114.07,16.03,224.06,46.2,328.4L486.14,325.56h808.25c472.63,0,856.96,384.33,856.96,856.96,0,105.91-19.48,207.09-54.68,301.05h-357.62c58.45-86.11,92.7-189.81,92.7-301.05,0-283.45-220.29-515.99-498.71-535.48l-624.41-1.57L237.57,1893.98c216.2,285.97,559.05,471.05,944.95,471.05,653.01,0,1182.2-529.51,1182.2-1182.51S1835.53,0,1182.52,0Zm735.03,1769.84c-156.18,165.93-377.73,269.63-623.16,269.63H464.46l457.86-1213h341.9l-331.22,893.09h361.39c8.49,0,16.97,0,25.45-.63h642.01c-14.14,17.6-28.91,34.57-44.31,50.91Z" />
+  </g>
 </svg>
